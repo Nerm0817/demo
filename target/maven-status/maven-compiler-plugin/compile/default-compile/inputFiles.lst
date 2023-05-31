@@ -1,0 +1,15 @@
+C:\apidos\webservice\demo\src\main\java\com\webservice\uts\models\entites\Cliente.java
+C:\apidos\webservice\demo\src\main\java\com\webservice\uts\controllers\ClienteRestController.java
+C:\apidos\webservice\demo\src\main\java\com\webservice\uts\models\entites\Usuario.java
+C:\apidos\webservice\demo\src\main\java\com\webservice\uts\DemoApplication.java
+C:\apidos\webservice\demo\src\main\java\com\webservice\uts\models\dao\IProductoDao.java
+C:\apidos\webservice\demo\src\main\java\com\webservice\uts\models\entites\Producto.java
+C:\apidos\webservice\demo\src\main\java\com\webservice\uts\models\entites\ItemFactura.java
+C:\apidos\webservice\demo\src\main\java\com\webservice\uts\models\entites\Region.java
+C:\apidos\webservice\demo\src\main\java\com\webservice\uts\models\dao\IFacturaDao.java
+C:\apidos\webservice\demo\src\main\java\com\webservice\uts\models\entites\Factura.java
+C:\apidos\webservice\demo\src\main\java\com\webservice\uts\models\dao\IClienteDao.java
+C:\apidos\webservice\demo\src\main\java\com\webservice\uts\models\services\IClienteService.java
+C:\apidos\webservice\demo\src\main\java\com\webservice\uts\models\entites\Role.java
+C:\apidos\webservice\demo\src\main\java\com\webservice\uts\models\services\ClienteServicelmpl.java
+C:\apidos\webservice\demo\src\main\java\com\webservice\uts\controllers\FacturaRestController.java
